@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 >### My name is yassen
 >### I'm from morocco :morocco: 
 > 🌱 I’m currently learning frontend web development :computer:
